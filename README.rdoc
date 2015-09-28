@@ -8,4 +8,4 @@ This proyect was made to test diferent feature of RoR and learn how to code in r
  * [Bootstrap Sass 3.3.5.1](https://github.com/twbs/bootstrap-sass)
  * [Devise 3.5.2](https://github.com/plataformatec/devise)
 
-
+[GitHub](http://github.com)
