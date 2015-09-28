@@ -4,6 +4,6 @@ This proyect was made to test diferent feature of RoR and learn how to code in r
 * Rails 4.2.4
 
 * GEMS
- * [Simple Form 3.2.0] - https://github.com/plataformatec/simple_form
- * [Bootstrap Sass 3.3.5.1] - https://github.com/twbs/bootstrap-sass
- * [Devise 3.5.2] - https://github.com/plataformatec/devise
+ - [Simple Form 3.2.0] - https://github.com/plataformatec/simple_form
+ - [Bootstrap Sass 3.3.5.1] - https://github.com/twbs/bootstrap-sass
+ - [Devise 3.5.2] - https://github.com/plataformatec/devise
