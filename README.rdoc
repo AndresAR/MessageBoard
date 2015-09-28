@@ -1,28 +1,11 @@
-== README
+== Message Board
+This proyect was made to test diferent feature of RoR and learn how to code in railsThis project was made to test different feature of RoR and learn how to code in rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Rails 4.2.4
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* GEMS
+** [Simple Form 3.2.0](https://github.com/plataformatec/simple_form) 
+** [Bootstrap Sass 3.3.5.1](https://github.com/twbs/bootstrap-sass)
+** [Devise 3.5.2](https://github.com/plataformatec/devise)
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
